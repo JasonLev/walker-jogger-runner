@@ -1,0 +1,3 @@
+Welcome to Walker Jogger Runner!
+
+This app will help you see Active.com events on a Google map.
