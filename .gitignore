@@ -13,3 +13,9 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Ignore ENV variables: keys and secret authentications
+.env
+
+# Ignore DS Store files
+.DS_Store

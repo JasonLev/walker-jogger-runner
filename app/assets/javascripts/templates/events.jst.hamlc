@@ -1,0 +1,6 @@
+%h5 Event Results
+
+%ul
+- for result in @results
+  %li
+    = result.title
