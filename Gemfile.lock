@@ -51,6 +51,8 @@ GEM
       dotenv (= 0.9.0)
     erubis (2.7.0)
     execjs (2.0.2)
+    geocoder (1.1.8)
+    gmaps4rails (2.1.0)
     haml (4.0.4)
       tilt
     haml-rails (0.4)
@@ -163,6 +165,8 @@ DEPENDENCIES
   coffee-rails (~> 3.2.1)
   dotenv-rails
   execjs
+  geocoder
+  gmaps4rails
   haml-rails
   haml_coffee_assets
   jquery-rails
